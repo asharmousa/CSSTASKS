@@ -1,0 +1,55 @@
+#H1{
+  
+    font-family:'Times New Roman', Times, serif;
+    font-size: 32px;
+    color: orange;
+   }
+
+#H2{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: right;
+  font-size: 24px;
+  font-weight:bolder; 
+   }
+   #para1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 16px;
+   }
+#para2{
+    font-family: 'Courier New', monospace;
+    text-align: right; 
+    font-size: 16px;
+}
+ #para3{
+colore:orange;
+    }
+    #para4{
+
+    }
+#para5{
+background-image: url("./OIP.webp");
+}
+.quis{
+    background-color:yellow;
+}
+.ipsum{
+    background-color: orange;
+}
+.b{
+border:dashed;
+margin-right: 150px;
+}
+div.border{
+    border: solid;
+    outline-width: thin;
+    margin-right: 150px;
+}
+p.colorBord{
+    border-color: red;
+    outline-width: .5px;
+    margin: auto;
+}
+div.violet{
+    color: blueviolet;
+}
